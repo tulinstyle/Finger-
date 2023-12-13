@@ -88,6 +88,7 @@ Finger使用python3.7开发全平台支持,可以使用下面命令下载使用:
 
 ```html
 git clone https://github.com/EASY233/Finger.git
+cd Finger
 pip3 install -r requirements.txt
 python3 Finger.py -h
 ```
